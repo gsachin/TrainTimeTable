@@ -1,0 +1,20 @@
+PODS:
+  - SwiftLint (0.25.1)
+  - SWXMLHash (4.1.1)
+
+DEPENDENCIES:
+  - SwiftLint
+  - SWXMLHash (~> 4.1.0)
+
+SPEC REPOS:
+  https://github.com/CocoaPods/Specs.git:
+    - SwiftLint
+    - SWXMLHash
+
+SPEC CHECKSUMS:
+  SwiftLint: ce933681be10c3266e82576dad676fa815a602e9
+  SWXMLHash: 2ac748d1b7a429725d5fc99bb1177a685c4b84c7
+
+PODFILE CHECKSUM: f05110fee60a780d73731a669400daf7004180f1
+
+COCOAPODS: 1.5.0
